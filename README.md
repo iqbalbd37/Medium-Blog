@@ -8,7 +8,7 @@
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iqbalbd37)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalbd37)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbalbd37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbalb37/)
 
 ---
 
@@ -19,42 +19,17 @@
 
 ---
 
-## 📚 About This Repository
-
-This repository contains all my **Medium blog articles** in Markdown format, organized for easy reference and contribution.
-
----
-
-## 📂 Repository Structure
-
-```
-Medium-Blog/
-├── README.md
-├── .gitignore
-└── articles/
-    ├── 01-leadership/
-    │   └── README.md
-    ├── 02-redis-rhel9/
-    │   └── README.md
-    ├── 03-tomcat-rhel9/
-    │   └── README.md
-    ├── 04-osticket-ubuntu/
-    │   └── README.md
-    └── 05-ftp-ubuntu/
-        └── README.md
-```
-
----
-
 ## 📝 Articles
 
 | # | Article | Category | Platform | Link |
 |---|---------|----------|----------|------|
-| 01 | **ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়** | Leadership | Bangla | [Read →](articles/01-leadership/README.md) |
-| 02 | **Redis on RHEL 9: Complete Production Setup Guide** | DevOps | English | [Read →](articles/02-redis-rhel9/README.md) |
+| 01 | **How to Install and Configure an FTP Server on Ubuntu 22.04** | DevOps | English | [Read →](articles/05-ftp-ubuntu/README.md) |
+| 02 | **How to Install osTicket on Ubuntu 22.04** | DevOps | English | [Read →](articles/04-osticket-ubuntu/README.md) |
 | 03 | **How to Install Apache Tomcat on RHEL 9 with Java 21** | DevOps | English | [Read →](articles/03-tomcat-rhel9/README.md) |
-| 04 | **How to Install osTicket on Ubuntu 22.04** | DevOps | English | [Read →](articles/04-osticket-ubuntu/README.md) |
-| 05 | **How to Install and Configure an FTP Server on Ubuntu 22.04** | DevOps | English | [Read →](articles/05-ftp-ubuntu/README.md) |
+| 04 | **Redis on RHEL 9: Complete Production Setup Guide** | DevOps | English | [Read →](articles/02-redis-rhel9/README.md) |
+| 05 | **ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়** | Leadership | Bangla | [Read →](articles/01-leadership/README.md) |
+
+
 
 ---
 
@@ -92,10 +67,10 @@ Medium-Blog/
 ## 🔥 Recent Activity
 
 <!-- BLOG-POST-LIST:START -->
-- 🔴 Redis on RHEL 9: Complete Production Setup Guide
-- 🔴 How to Install Apache Tomcat on RHEL 9 with Java 21
-- 🔴 How to Install osTicket on Ubuntu 22.04
 - 🔴 How to Install and Configure an FTP Server on Ubuntu 22.04
+- 🔴 How to Install osTicket on Ubuntu 22.04
+- 🔴 How to Install Apache Tomcat on RHEL 9 with Java 21
+- 🔴 Redis on RHEL 9: Complete Production Setup Guide
 - 🔴 ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়
 <!-- BLOG-POST-LIST:END -->
 
