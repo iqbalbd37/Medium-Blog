@@ -23,7 +23,7 @@
 
 | # | Article | Category | Platform | Link |
 |---|---------|----------|----------|------|
-| 01 | **How to Install and Configure an FTP Server on Ubuntu 22.04** | DevOps | English | [Read →](articles/05-ftp-ubuntu/ftp-ubuntu.md) |
+| 01 | **How to Install and Configure an FTP Server on Ubuntu 22.04** | DevOps | English | [Read →](articles/05-ftp-ubuntu/Readme.md) |
 | 02 | **How to Install osTicket on Ubuntu 22.04** | DevOps | English | [Read →](articles/04-osticket-ubuntu/osticket-ubuntu.md) |
 | 03 | **How to Install Apache Tomcat on RHEL 9 with Java 21** | DevOps | English | [Read →](articles/03-tomcat-rhel9/tomcat-rhel9.md) |
 | 04 | **Redis on RHEL 9: Complete Production Setup Guide** | DevOps | English | [Read →](articles/02-redis-rhel9/redis-rhel9.md) |
