@@ -64,6 +64,8 @@
 - 🔴 Redis on RHEL 9: Complete Production Setup Guide
 - 🔴 ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়
 - 🔴 Resolving Tomcat Port 80/443 Bind Failure on Linux: A Production Incident Analysis
+- 🔴 System Design: How I Learned from My Mistakes
+
 
 <!-- BLOG-POST-LIST:END -->
 
