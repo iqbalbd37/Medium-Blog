@@ -1,5 +1,3 @@
-## English Version
-
 ### *System Design: How I Learned from My Mistakes*
 
 [![Cover Image](images/System-design-fundamentals.png)](images/System-design-fundamentals.png)
@@ -497,4 +495,4 @@ My biggest lesson: **Make mistakes, but never make the same mistake twice.**
 আমার সবচেয়ে বড় শেখা হলো: **ভুল করো, কিন্তু একই ভুল দুবার কোরো না।**
 
 ---
-**Tags:** #SystemDesign #SoftwareEngineering #Architecture #Scalability #LoadBalancing #Caching #Microservices #TechInterview #BackendDevelopment #CloudComputing
+
