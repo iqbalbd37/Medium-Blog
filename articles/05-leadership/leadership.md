@@ -3,8 +3,6 @@
 ![Cover Image](images/Leadership.jpg)
 
 ---
-## English Version
-
 # Power Is Temporary, But Leadership Is Remembered
 
 Success, power, influence, and position are important achievements in life. However, the true measure of a person's success is not determined by their title or authority. It is reflected in how they treat other people.
