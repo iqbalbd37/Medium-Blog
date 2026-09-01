@@ -2,7 +2,7 @@
 
 ### *Power Is Temporary, But Leadership Is Remembered*
 
-![Cover Image](images/Leadership.png)
+![Cover Image](images/Leadership.jpg)
 
 ---
 
