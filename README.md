@@ -28,7 +28,7 @@
 | 03 | **How to Install Apache Tomcat on RHEL 9 with Java 21** | DevOps | English | [Read →](articles/03-tomcat-rhel9/tomcat-rhel9.md) |
 | 04 | **Redis on RHEL 9: Complete Production Setup Guide** | DevOps | English | [Read →](articles/02-redis-rhel9/redis-rhel9.md) |
 | 05 | **ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়** | Leadership | Bangla | [Read →](articles/01-leadership/leadership.md) |
-| 06 | **Resolving Tomcat Port 80/443 Bind Failure on Linux: A Production Incident Analysis| English | [Read →](articles/06- tomcat-port-bind-fix/tomcat-port-bind-fix.md.md) |
+| 06 | **Resolving Tomcat Port 80/443 Bind Failure on Linux: A Production Incident Analysis** | Tomcat | English | [Read →](articles/06- tomcat-port-bind-fix/tomcat-port-bind-fix.md) |
 | 07 | **System Design: How I Learned from My Mistakes** | System Design | English | [Read →](articles/07-system-design-fundamentals
 /system-design-fundamentals.md) |
 
