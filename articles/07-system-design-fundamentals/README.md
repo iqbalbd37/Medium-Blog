@@ -1,9 +1,9 @@
 # 07 - System Design Fundamentals
 
 ## Article Title
-**Bengali:** সিস্টেম ডিজাইন ফান্ডামেন্টালস: একজুনিয়র থেকে সিনিয়র ইঞ্জিনিয়ারের যাত্রা
-
 **English:** System Design Fundamentals: From Junior to Senior Engineer
+
+**Bengali:** সিস্টেম ডিজাইন ফান্ডামেন্টালস: একজুনিয়র থেকে সিনিয়র ইঞ্জিনিয়ারের যাত্রা
 
 ## Medium Link
 https://medium.com/@iqbalbd37
@@ -22,4 +22,4 @@ https://medium.com/@iqbalbd37
 #SystemDesign #SoftwareEngineering #Architecture #Scalability #LoadBalancing #Caching #Microservices #TechInterview #BackendDevelopment #CloudComputing
 
 ## Cover Image
-Place your cover image in the `images/` folder as `cover.png`
+Place your cover image in the `images/` folder as `System-design-fundamentals.png`
