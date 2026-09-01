@@ -3,8 +3,6 @@
 ## Article Title
 **English:** System Design Fundamentals: From Junior to Senior Engineer
 
-**Bengali:** সিস্টেম ডিজাইন ফান্ডামেন্টালস: একজুনিয়র থেকে সিনিয়র ইঞ্জিনিয়ারের যাত্রা
-
 ## Medium Link
 https://medium.com/@iqbalbd37
 

@@ -245,11 +245,6 @@ System design isn't about memorizing diagrams. It's about:
 - Understanding the cost of each decision
 - Learning from mistakes
 
-**Interview Tips:**
-- Spend the first 5 minutes asking questions
-- Clarify requirements
-- Justify each component with reasoning
-
 **You don't learn system design by memorizing diagrams. You learn it by watching different components fail.**
 
 My biggest lesson: **Make mistakes, but never make the same mistake twice.**
@@ -496,11 +491,6 @@ My biggest lesson: **Make mistakes, but never make the same mistake twice.**
 - সঠিক কম্পোনেন্ট বাছাই
 - প্রতিটি সিদ্ধান্তের খরচ বোঝা
 - ভুল থেকে শেখা
-
-**ইন্টারভিউতে মনে রাখুন:**
-- প্রথম ৫ মিনিটে প্রশ্ন করুন
-- প্রয়োজনীয়তা নিশ্চিত করুন
-- প্রতিটি কম্পোনেন্ট যুক্তিসহ ব্যাখ্যা করুন
 
 **সিস্টেম ডিজাইন শেখা যায় না ডায়াগ্রাম মুখস্থ করে; শেখা যায় বিভিন্ন কম্পোনেন্ট ব্যর্থ হতে দেখে।**
 
