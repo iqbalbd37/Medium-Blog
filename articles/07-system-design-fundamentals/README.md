@@ -16,8 +16,5 @@ https://medium.com/@iqbalbd37
 - Stateless vs Stateful Servers
 - Caching and Replication
 
-## Tags
-#SystemDesign #SoftwareEngineering #Architecture #Scalability #LoadBalancing #Caching #Microservices #TechInterview #BackendDevelopment #CloudComputing
-
 ## Cover Image
 Place your cover image in the `images/` folder as `System-design-fundamentals.png`

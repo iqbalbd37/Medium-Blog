@@ -21,7 +21,7 @@
 
 ## 📝 Articles
 
-| # | Article | Category | Platform | Link |
+| SL | Article | Category | Platform | Link |
 |---|---------|----------|----------|------|
 | 01 | **How to Install and Configure an FTP Server on Ubuntu 22.04** | DevOps | English | [Read →](articles/01-ftp-ubuntu/Readme.md) |
 | 02 | **How to Install osTicket on Ubuntu 22.04** | DevOps | English | [Read →](articles/02-osticket-ubuntu/osticket-ubuntu.md) |

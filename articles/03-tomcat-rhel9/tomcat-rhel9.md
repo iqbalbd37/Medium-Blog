@@ -210,13 +210,6 @@ curl http://localhost:8080
 | `sudo journalctl -u tomcat -f` | View service logs |
 | `tail -f /opt/tomcat/logs/catalina.out` | View Tomcat logs |
 
----
-
-## Tags
-
-`#Tomcat` `#RHEL9` `#Java` `#DevOps` `#Linux` `#WebServer` `#JavaApps` `#Tutorial`
-
----
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iqbalbd37)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalbd37)

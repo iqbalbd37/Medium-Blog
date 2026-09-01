@@ -300,13 +300,5 @@ Expected output:
 TcpTestSucceeded : True
 ```
 
----
-
-## Tags
-
-`#FTP` `#Ubuntu` `#VSFTPD` `#DevOps` `#Linux` `#Networking` `#Windows` `#Tutorial`
-
----
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iqbalbd37)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalbd37)

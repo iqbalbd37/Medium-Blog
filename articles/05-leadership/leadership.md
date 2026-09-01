@@ -2,7 +2,7 @@
 
 ### *Power Is Temporary, But Leadership Is Remembered*
 
-![Cover Image](images/cover.png)
+![Cover Image](images/Leadership.png)
 
 ---
 
@@ -199,5 +199,3 @@ It is this:
 That is the real legacy of leadership.
 
 ---
-
-**Tags:** #Leadership #LeadershipLessons #Management #Teamwork #Respect #Humility #Professionalism #WorkplaceCulture
