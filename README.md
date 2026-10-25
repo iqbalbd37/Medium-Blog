@@ -32,7 +32,6 @@
 | 07 | **System Design: How I Learned from My Mistakes** | System Design | English | [Read →](articles/07-system-design-fundamentals/system-design-fundamentals.md) |
 | 08 | **Stream Editor (sed) — A Complete Guide for Beginners** | Linux | English | [Read →](articles/08-sed-guide/sed-guide.md) |
 | 09 | **SQL vs NoSQL: How to Choose the Right Database** | System Design | English | [Read →](articles/09-sql-vs-nosql/sql-vs-nosql.md) |
-| 10 | **Oracle DB Connection Timeout in Spring Boot & Tomcat** | DevOps | English | [Read →](articles/10-oracle-connection-timeout/oracle-connection-timeout.md) |
 
 
 ---
