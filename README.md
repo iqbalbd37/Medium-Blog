@@ -33,8 +33,8 @@
 | 08 | **Stream Editor (sed) — A Complete Guide for Beginners** | Linux | English | [Read →](articles/08-sed-guide/sed-guide.md) |
 | 09 | **SQL vs NoSQL: How to Choose the Right Database** | System Design | English | [Read →](articles/09-sql-vs-nosql/sql-vs-nosql.md) |
 | 10 | **Troubleshooting Oracle DB Connection Timeouts in Spring Boot & Tomcat** | DevOps | English | [Read →](articles/10-oracle-connection-timeout/oracle-connection-timeout.md) |
-| 11 | **Fail2Ban: Your Server's Security Guard** | Security | English | [Read →](articles/11-fail2ban-security/fail2ban-security.md) |
-| 12 | **Server on Fire at 3 AM: How I Saved It with Fail2Ban** | Security | English | [Read →](articles/12-fail2ban-incident/fail2ban-incident.md) |
+| 11 | **Fail2Ban: The Ultimate Guide to Linux Server Security** | Security | English | [Read →](articles/11-fail2ban-security/fail2ban-security.md) |
+| 12 | **Production Incident: Surviving a 15,847-Request SSH Brute-Force Attack** | Security | English | [Read →](articles/12-fail2ban-incident/fail2ban-incident.md) |
 
 
 
@@ -73,8 +73,8 @@
 - 🔴 System Design: How I Learned from My Mistakes
 - 🔴 SQL vs NoSQL: How to Choose the Right Database for Your Next Project?
 - 🔴 Troubleshooting Oracle DB Connection Timeouts in Spring Boot & Tomcat
-- 🔴 Fail2Ban: Your Server's Security Guard
-- 🔴 Server on Fire at 3 AM: How I Saved It with Fail2Ban
+- 🔴 Fail2Ban: The Ultimate Guide to Linux Server Security
+- 🔴 Production Incident: Surviving a 15,847-Request SSH Brute-Force Attack
 
 
 <!-- BLOG-POST-LIST:END -->

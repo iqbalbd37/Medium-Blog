@@ -1,8 +1,8 @@
-### *Fail2Ban: Your Server's Security Guard*
+### *Fail2Ban: The Ultimate Guide to Linux Server Security and Brute-Force Protection*
 
 ---
 
-> *A beginner-friendly guide to protecting Linux servers from brute-force attacks using Fail2Ban.*
+> *A complete production guide to securing Linux servers with Fail2Ban — covering installation, SSH hardening, custom jails, WordPress/Nginx/Postfix protection, and troubleshooting.*
 
 ---
 

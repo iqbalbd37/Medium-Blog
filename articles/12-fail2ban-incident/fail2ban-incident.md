@@ -1,8 +1,8 @@
-### *Server on Fire at 3 AM: How I Saved It with Fail2Ban*
+### *Production Incident: Surviving a 15,847-Request SSH Brute-Force Attack with Fail2Ban*
 
 ---
 
-> *A real production incident — 15,847 SSH login attempts in 10 minutes. Here's how Fail2Ban saved the day.*
+> *A real-world DevOps incident analysis — how a 3 AM alert revealed 15,847 failed SSH login attempts, and how Fail2Ban blocked 847 malicious IPs to restore server stability.*
 
 ---
 
