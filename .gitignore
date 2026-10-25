@@ -31,6 +31,10 @@ desktop.ini
 *.rar
 *.7z
 
+# Local-only articles (not pushed to GitHub)
+articles/11-fail2ban-security/
+articles/12-fail2ban-incident/
+
 # Images (optional - remove if you want to track images)
 # *.png
 # *.jpg
