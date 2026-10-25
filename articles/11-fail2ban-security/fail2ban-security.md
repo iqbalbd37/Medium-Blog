@@ -397,30 +397,4 @@ Fail2Ban is your server's first line of defense. It:
 
 ---
 
-**Tags:** #Fail2Ban #ServerSecurity #Linux #CyberSecurity #SSH #Firewall #DevOps #SysAdmin #SecurityTools #Ubuntu
 
----
-
-## 📂 GitHub Repository
-
-📋 **Explore the complete article and code resources:**
-
-👉 **[GitHub Repository: Medium-Blog](https://github.com/iqbalbd37/Medium-Blog)**
-
-📄 **Read the full Fail2Ban Security Guide in Markdown:**
-
-👉 [Fail2Ban: The Ultimate Guide to Linux Server Security — Full Article](https://github.com/iqbalbd37/Medium-Blog/blob/main/articles/11-fail2ban-security/fail2ban-security.md)
-
-### What You'll Find in This Repository
-
-- ✅ Complete Fail2Ban installation and configuration guide
-- ✅ SSH hardening and brute-force protection setup
-- ✅ Custom jail and filter configuration for WordPress, Nginx, Postfix
-- ✅ Real-world iptables integration and monitoring commands
-- ✅ Troubleshooting guide and best practices for Linux servers
-
-⭐ **If you find these resources useful, consider starring the repository on GitHub!**
-
-*Learn, secure, and share your DevOps knowledge.*
-
----
