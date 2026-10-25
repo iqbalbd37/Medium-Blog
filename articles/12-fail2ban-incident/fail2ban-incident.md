@@ -245,3 +245,29 @@ Fail2Ban is a simple tool. But it can protect your server from thousands of atta
 ---
 
 **Tags:** #Fail2Ban #ServerSecurity #Linux #CyberSecurity #SSH #BruteForceAttack #DevOps #SystemAdministration #OpenSource #IncidentResponse
+
+---
+
+## 📂 GitHub Repository
+
+📋 **Explore the complete article and troubleshooting resources:**
+
+👉 **[GitHub Repository: Medium-Blog](https://github.com/iqbalbd37/Medium-Blog)**
+
+📄 **Read the full Fail2Ban Incident Report in Markdown:**
+
+👉 [Production Incident: Surviving a 15,847-Request SSH Brute-Force Attack — Full Article](https://github.com/iqbalbd37/Medium-Blog/blob/main/articles/12-fail2ban-incident/fail2ban-incident.md)
+
+### What You'll Find in This Repository
+
+- ✅ Real-world SSH brute-force attack analysis
+- ✅ Fail2Ban setup and emergency response walkthrough
+- ✅ Custom filters for WordPress and web server protection
+- ✅ Multi-server ban list sharing with Redis
+- ✅ DevOps incident documentation and lessons learned
+
+⭐ **If you find these resources useful, consider starring the repository on GitHub!**
+
+*Learn, troubleshoot, and share your DevOps knowledge.*
+
+---
