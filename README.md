@@ -30,6 +30,9 @@
 | 05 | **ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়** | Leadership | Bangla | [Read →](articles/05-leadership/leadership.md) |
 | 06 | **Resolving Tomcat Port 80/443 Bind Failure on Linux: A Production Incident Analysis** | Tomcat | English | [Read →](articles/06-tomcat-port-bind-fix/tomcat-port-bind-fix.md) |
 | 07 | **System Design: How I Learned from My Mistakes** | System Design | English | [Read →](articles/07-system-design-fundamentals/system-design-fundamentals.md) |
+| 08 | **Stream Editor (sed) — A Complete Guide for Beginners** | Linux | English | [Read →](articles/08-sed-guide/sed-guide.md) |
+| 09 | **SQL vs NoSQL: How to Choose the Right Database** | System Design | English | [Read →](articles/09-sql-vs-nosql/sql-vs-nosql.md) |
+| 08 | **SQL vs NoSQL: How to Choose the Right Database for Your Next Project?** | System Design | English | [Read →](articles/08-sql-vs-nosql/sql-vs-nosql.md) |
 
 ---
 
@@ -64,6 +67,7 @@
 - 🔴 ক্ষমতা নয়, মানুষই একজন নেতার আসল পরিচয়
 - 🔴 Resolving Tomcat Port 80/443 Bind Failure on Linux: A Production Incident Analysis
 - 🔴 System Design: How I Learned from My Mistakes
+- 🔴 SQL vs NoSQL: How to Choose the Right Database for Your Next Project?
 
 
 <!-- BLOG-POST-LIST:END -->
