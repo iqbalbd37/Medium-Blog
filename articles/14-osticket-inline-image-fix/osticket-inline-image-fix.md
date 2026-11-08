@@ -153,12 +153,6 @@ diff against clean tree: only .htaccess and the two documented local patches dif
 
 *Disclaimer: This incident report is based on a real production troubleshooting scenario. IP addresses, usernames, and sensitive configuration values have been anonymized. The database password and SECRET_SALT are intentionally excluded.*
 
----
-
-**Tags:** #osTicket #Helpdesk #CSRF #ServerMigration #PHP #Linux #DevOps #IncidentResponse #Troubleshooting #Ubuntu
-
----
-
 ## 📂 GitHub Repository
 
 📋 **Explore the complete article and troubleshooting resources:**

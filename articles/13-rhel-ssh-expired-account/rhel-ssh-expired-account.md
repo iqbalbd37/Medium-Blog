@@ -372,12 +372,6 @@ Sometimes, one command solves the immediate problem. Understanding why that comm
 
 *Disclaimer: This article describes a real-world troubleshooting scenario. The timeline is illustrative because exact timestamps were not recorded. The username is anonymized as `USERNAME`. Account-expiration changes should be performed only by authorized administrators and in accordance with organizational security policies.*
 
----
-
-**Tags:** #Linux #RHEL #SSH #SystemAdministration #DevOps #Troubleshooting #AccountManagement
-
----
-
 ## 📂 GitHub Repository
 
 📋 **Explore the complete article and troubleshooting resources:**
