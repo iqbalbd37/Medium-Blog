@@ -35,6 +35,7 @@
 | 10 | **Troubleshooting Oracle DB Connection Timeouts in Spring Boot & Tomcat** | DevOps | English | [Read →](articles/10-oracle-connection-timeout/oracle-connection-timeout.md) |
 | 11 | **Fail2Ban: The Ultimate Guide to Linux Server Security** | Security | English | [Read →](articles/11-fail2ban-security/fail2ban-security.md) |
 | 12 | **Production Incident: Surviving a 15,847-Request SSH Brute-Force Attack** | Security | English | [Read →](articles/12-fail2ban-incident/fail2ban-incident.md) |
+| 13 | **One SSH Error, One Linux Command, One Critical Lesson** | Linux | English | [Read →](articles/13-rhel-ssh-expired-account/rhel-ssh-expired-account.md) |
 
 
 
@@ -75,6 +76,7 @@
 - 🔴 Troubleshooting Oracle DB Connection Timeouts in Spring Boot & Tomcat
 - 🔴 Fail2Ban: The Ultimate Guide to Linux Server Security
 - 🔴 Production Incident: Surviving a 15,847-Request SSH Brute-Force Attack
+- 🔴 One SSH Error, One Linux Command, One Critical Lesson
 
 
 <!-- BLOG-POST-LIST:END -->
